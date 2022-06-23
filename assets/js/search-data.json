@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Title",
-            "content": "&gt; test3 - toc: true - badges: true - comments: true - categories: [jupyter] - image: images/chart-preview.png . 1234 . print(1234) . print(pwd) .",
+            "content": "&gt; test3 - toc: true - badges: true - comments: true - categories: [jupyter] - image: images/chart-preview.png . 1234 . print(1234) . 1234 . !pwd . /Users/nhn/Desktop/1_dev/4_ds/fastpages/test_fastpages/_notebooks .",
             "url": "https://youngwoon-im.github.io/test_fastpages/2022/06/22/.html",
             "relUrl": "/2022/06/22/.html",
             "date": " • Jun 22, 2022"
